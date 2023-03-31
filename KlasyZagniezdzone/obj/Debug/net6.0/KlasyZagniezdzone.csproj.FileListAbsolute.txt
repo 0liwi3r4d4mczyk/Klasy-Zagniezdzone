@@ -1,0 +1,15 @@
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\bin\Debug\net6.0\KlasyZagniezdzone.exe
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\bin\Debug\net6.0\KlasyZagniezdzone.deps.json
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\bin\Debug\net6.0\KlasyZagniezdzone.runtimeconfig.json
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\bin\Debug\net6.0\KlasyZagniezdzone.dll
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\bin\Debug\net6.0\KlasyZagniezdzone.pdb
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.csproj.AssemblyReference.cache
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.GeneratedMSBuildEditorConfig.editorconfig
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.AssemblyInfoInputs.cache
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.AssemblyInfo.cs
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.csproj.CoreCompileInputs.cache
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.dll
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\refint\KlasyZagniezdzone.dll
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.pdb
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\KlasyZagniezdzone.genruntimeconfig.cache
+S:\Programowanie Obiektowe\KlasyZagniezdzone\KlasyZagniezdzone\obj\Debug\net6.0\ref\KlasyZagniezdzone.dll
